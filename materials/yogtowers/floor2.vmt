@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "yogtowers/floor2"
+	"$bumpmap" "yogtowers/floor2_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.1 0.1 0.1]"
+}

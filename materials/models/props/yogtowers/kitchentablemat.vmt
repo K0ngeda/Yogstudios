@@ -1,0 +1,16 @@
+UnlitGeneric
+{
+	$basetexture "models/props/yogtowers/diffuse"
+	$bumpmap "models/props/yogtowers/normal"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.22 0.19 0.17]"
+	$envmapcontrast 0.25
+	$fresnelreflection 0.52
+
+	"$phong" "1"
+	"$phongexponent" "60"
+	"$phongboost"	".2"
+	"$phongfresnelranges"	"[.2 4 1]"
+}

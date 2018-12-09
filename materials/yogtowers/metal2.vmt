@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "yogtowers/metal2"
+	"$surfaceprop" "Metal"
+	"$bumpmap" "yogtowers/metal1_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.08 0.08 0.08]"
+}

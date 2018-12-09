@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "yogtowers/tile1"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.05 0.05 0.05]"
+}

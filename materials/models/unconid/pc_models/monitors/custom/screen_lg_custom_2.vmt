@@ -1,0 +1,19 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	 "models\unconid\pc_models\monitors\custom\screen_lg_custom_2"
+	"$bumpmap"	 "models\unconid\1shared\sst_normal"
+	"$selfillummask"	 "models\unconid\1shared\lum"
+
+   	 $selfillum 1
+
+	"$phong" "1"
+	"$phongexponent" "6"
+	"$phongboost"	".8"
+	"$phongfresnelranges"	"[.2 4 1]"
+
+	"$rimlight" "1"												
+	"$rimlightexponent" "1"				
+	"$rimlightboost" ".0"
+
+	
+}

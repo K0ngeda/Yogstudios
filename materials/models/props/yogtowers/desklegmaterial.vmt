@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	$basetexture "yogtowers/metal2"
+	$bumpmap "yogtowers/metal1_nrm"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.30 0.30 0.30]"
+	$envmapfresnel 0.5
+	$envmaplightscale 0.37
+	$envmapanisotropy 1
+	$envmapanisotropyscale 0.48
+}

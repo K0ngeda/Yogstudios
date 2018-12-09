@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Computermodels/hafx"
+	"$surfaceprop" "Metal"
+	"$surfaceprop2" "Metal_Box"
+}
