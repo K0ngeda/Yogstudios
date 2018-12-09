@@ -7,6 +7,9 @@ $scale 1.0
 $modelname	"props/yogtowers/beverages.mdl"
 $staticprop
 $body beverages "beverages.smd"
+$collisionmodel "beverages_hull.smd" {
+
+}
 $surfaceprop "metal" 
 $contents "solid"
 $cdmaterials "models/props/yogtowers"
