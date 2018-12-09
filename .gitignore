@@ -47,3 +47,7 @@ garrysmod.soundcache
 stats.txt
 *.bat
 materials/models/props/yogtowers/*.txt
+*.bsp
+*.log
+*.prt
+*.vmx
