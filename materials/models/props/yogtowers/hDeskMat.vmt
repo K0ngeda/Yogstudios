@@ -7,10 +7,17 @@
 	$basetexture "models/props/yogtowers/desk_col"
 	$bumpmap "models/props/yogtowers/desk_nrm"
 
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.031 .031 .031]"
+
 	"$phong" "1"
-	"$phongexponent" "60"
+	"$phongexponent" "70"
 	"$phongboost"	".2"
-	"$phongfresnelranges"	"[.2 4 1]"
+	"$phongfresnelranges"	"[.2 2 1]"
+
+	"$rimlight" "1"												
+	"$rimlightexponent" ".25"				
+	"$rimlightboost" ".08"
 // END Textures
 
 

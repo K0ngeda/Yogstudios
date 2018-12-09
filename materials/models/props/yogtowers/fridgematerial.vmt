@@ -17,7 +17,7 @@
 
 	"$rimlight" "1"												
 	"$rimlightexponent" "2"				
-	"$rimlightboost" ".05"
+	"$rimlightboost" ".1"
 // END Textures
 
 

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8078"
-	"mapversion" "713"
+	"mapversion" "717"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "713"
+	"mapversion" "717"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -77358,94 +77358,6 @@ entity
 }
 entity
 {
-	"id" "46024"
-	"classname" "func_detail"
-	solid
-	{
-		"id" "32503"
-		side
-		{
-			"id" "36559"
-			"plane" "(225 -36 128.871) (225 -1 128.871) (255 -1 128.871)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -822] 0.1"
-			"vaxis" "[0 -1 0 10] 0.1"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "36558"
-			"plane" "(225 -1 32.8706) (225 -36 32.8706) (255 -36 32.8706)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -822] 0.1"
-			"vaxis" "[0 -1 0 10] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "36557"
-			"plane" "(225 -36 32.8708) (225 -1 32.8708) (225 -1 128.869)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 -10] 0.1"
-			"vaxis" "[0 0 -1 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "36556"
-			"plane" "(255 -1 32.8708) (255 -36 32.8708) (255 -36 128.869)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 -4] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "36555"
-			"plane" "(225 -1 32.8708) (255 -1 32.8708) (255 -1 128.869)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -822] 0.1"
-			"vaxis" "[0 0 -1 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "36554"
-			"plane" "(255 -36 32.8708) (225 -36 32.8708) (225 -36 128.869)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -822] 0.1"
-			"vaxis" "[0 0 -1 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "0 180 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 7500]"
-	}
-}
-entity
-{
 	"id" "46034"
 	"classname" "func_detail"
 	solid
@@ -82645,94 +82557,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3500 3000]"
-	}
-}
-entity
-{
-	"id" "50812"
-	"classname" "func_detail"
-	solid
-	{
-		"id" "50813"
-		side
-		{
-			"id" "37767"
-			"plane" "(225 1 128.871) (225 36 128.871) (255 36 128.871)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -822] 0.1"
-			"vaxis" "[0 -1 0 380] 0.1"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "37766"
-			"plane" "(225 36 32.8706) (225 1 32.8706) (255 1 32.8706)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -822] 0.1"
-			"vaxis" "[0 -1 0 380] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "37765"
-			"plane" "(225 1 32.8708) (225 36 32.8708) (225 36 128.869)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 -380] 0.1"
-			"vaxis" "[0 0 -1 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "37764"
-			"plane" "(255 36 32.8708) (255 1 32.8708) (255 1 128.869)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 40] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "37763"
-			"plane" "(225 36 32.8708) (255 36 32.8708) (255 36 128.869)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -822] 0.1"
-			"vaxis" "[0 0 -1 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "37762"
-			"plane" "(255 1 32.8708) (225 1 32.8708) (225 1 128.869)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -822] 0.1"
-			"vaxis" "[0 0 -1 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "0 180 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 7500]"
 	}
 }
 entity
@@ -98728,13 +98552,67 @@ entity
 		"logicalpos" "[0 0]"
 	}
 }
+entity
+{
+	"id" "94480"
+	"classname" "prop_static"
+	"angles" "0 270 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/yogtowers/beverages.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "255 7 33"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "95644"
+	"classname" "prop_static"
+	"angles" "0 270 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/yogtowers/beverages.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "255.257 41.9719 33"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[177.128 -351.967 83.9179]"
-		"look" "[5391.87 8513.21 -1737.05]"
+		"position" "[142.732 -307.672 116.203]"
+		"look" "[-7263.01 -7671 313.053]"
 	}
 }
 cordon
