@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8078"
-	"mapversion" "724"
+	"mapversion" "728"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "724"
+	"mapversion" "728"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -72067,7 +72067,7 @@ entity
 		side
 		{
 			"id" "35623"
-			"plane" "(226 -85 73) (226 -85 72) (226 -38 72)"
+			"plane" "(226 -87 73) (226 -87 72) (226 -38 72)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[0 0 -1 61.1421] 0.1"
@@ -72078,7 +72078,7 @@ entity
 		side
 		{
 			"id" "35622"
-			"plane" "(256 -38 73) (256 -38 72) (256 -85 72)"
+			"plane" "(256 -38 73) (256 -38 72) (256 -87 72)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -72089,7 +72089,7 @@ entity
 		side
 		{
 			"id" "35621"
-			"plane" "(256 -85 74) (256 -85 72) (226 -85 72)"
+			"plane" "(256 -87 74) (256 -87 72) (226 -87 72)"
 			"material" "YOGTOWERS/WOOD3"
 			"uaxis" "[-1 0 0 768] 0.25"
 			"vaxis" "[0 0 -1 271] 0.25"
@@ -72111,7 +72111,7 @@ entity
 		side
 		{
 			"id" "35619"
-			"plane" "(226 -38 72) (226 -85 72) (256 -85 72)"
+			"plane" "(226 -38 72) (226 -87 72) (256 -87 72)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[1 0 0 -845] 0.1"
@@ -72122,7 +72122,7 @@ entity
 		side
 		{
 			"id" "35618"
-			"plane" "(256 -39 74) (256 -85 74) (227 -85 74)"
+			"plane" "(256 -39.0426 74) (256 -87 74) (227 -87 74)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[-1 0 0 563] 0.1"
@@ -72133,7 +72133,7 @@ entity
 		side
 		{
 			"id" "35617"
-			"plane" "(226 -85 73) (226 -38 73) (227 -39 74)"
+			"plane" "(226 -87 73) (226 -38 73) (227 -39.0426 74)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[-0.707107 0 -0.707107 421.392] 0.1"
@@ -72144,9 +72144,9 @@ entity
 		side
 		{
 			"id" "35616"
-			"plane" "(226 -38 73) (256 -38 73) (256 -39 74)"
+			"plane" "(226 -38 73) (256 -38 73) (256 -39.0426 74)"
 			"material" "YOGTOWERS/MARBLE1"
-			"uaxis" "[0 0.707107 -0.707107 441.031] 0.1"
+			"uaxis" "[0 0.721682 -0.692225 441.031] 0.1"
 			"vaxis" "[-1 0 0 563] 0.1"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -72165,7 +72165,7 @@ entity
 		side
 		{
 			"id" "35630"
-			"plane" "(226 -128 73) (226 -128 72) (226 -85 72)"
+			"plane" "(226 -120 73) (226 -120 72) (226 -87 72)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[0 0 -1 61.1418] 0.1"
@@ -72176,7 +72176,7 @@ entity
 		side
 		{
 			"id" "35629"
-			"plane" "(231 -85 74) (231 -85 72) (231 -128 72)"
+			"plane" "(231 -87 74) (231 -87 72) (231 -120 72)"
 			"material" "YOGTOWERS/WOOD3"
 			"uaxis" "[0 1 0 84] 0.25"
 			"vaxis" "[0 0 -1 271] 0.25"
@@ -72187,7 +72187,7 @@ entity
 		side
 		{
 			"id" "35628"
-			"plane" "(231 -128 74) (231 -128 72) (226 -128 72)"
+			"plane" "(231 -120 74) (231 -120 72) (226 -120 72)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -72198,7 +72198,7 @@ entity
 		side
 		{
 			"id" "35627"
-			"plane" "(226 -85 73) (226 -85 72) (231 -85 72)"
+			"plane" "(226 -87 73) (226 -87 72) (231 -87 72)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -72209,7 +72209,7 @@ entity
 		side
 		{
 			"id" "35626"
-			"plane" "(226 -85 72) (226 -128 72) (231 -128 72)"
+			"plane" "(226 -87 72) (226 -120 72) (231 -120 72)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 162] 0.1"
 			"vaxis" "[1 0 0 -845] 0.1"
@@ -72220,7 +72220,7 @@ entity
 		side
 		{
 			"id" "35625"
-			"plane" "(227 -85 74) (231 -85 74) (231 -128 74)"
+			"plane" "(227 -87 74) (231 -87 74) (231 -120 74)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[-1 0 0 563] 0.1"
@@ -72231,7 +72231,7 @@ entity
 		side
 		{
 			"id" "35624"
-			"plane" "(226 -128 73) (226 -85 73) (227 -85 74)"
+			"plane" "(226 -120 73) (226 -87 73) (227 -87 74)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[-0.707107 0 -0.707107 421.392] 0.1"
@@ -72252,7 +72252,7 @@ entity
 		side
 		{
 			"id" "35636"
-			"plane" "(253 -128 74) (253 -128 72) (253 -85 72)"
+			"plane" "(252 -120 74) (252 -120 72) (252 -87 72)"
 			"material" "YOGTOWERS/WOOD3"
 			"uaxis" "[0 1 0 84] 0.25"
 			"vaxis" "[0 0 -1 271] 0.25"
@@ -72263,7 +72263,7 @@ entity
 		side
 		{
 			"id" "35635"
-			"plane" "(256 -85 74) (256 -85 72) (256 -128 72)"
+			"plane" "(256 -87 74) (256 -87 72) (256 -120 72)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 52] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -72274,7 +72274,7 @@ entity
 		side
 		{
 			"id" "35634"
-			"plane" "(256 -128 74) (256 -128 72) (253 -128 72)"
+			"plane" "(256 -120 74) (256 -120 72) (252 -120 72)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -72285,7 +72285,7 @@ entity
 		side
 		{
 			"id" "35633"
-			"plane" "(253 -85 74) (253 -85 72) (256 -85 72)"
+			"plane" "(252 -87 74) (252 -87 72) (256 -87 72)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -72296,7 +72296,7 @@ entity
 		side
 		{
 			"id" "35632"
-			"plane" "(253 -85 72) (253 -128 72) (256 -128 72)"
+			"plane" "(252 -87 72) (252 -120 72) (256 -120 72)"
 			"material" "YOGTOWERS/WOOD3"
 			"uaxis" "[0 1 0 84] 0.25"
 			"vaxis" "[1 0 0 -9] 0.25"
@@ -72307,7 +72307,7 @@ entity
 		side
 		{
 			"id" "35631"
-			"plane" "(253 -128 74) (253 -85 74) (256 -85 74)"
+			"plane" "(252 -120 74) (252 -87 74) (256 -87 74)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[-1 0 0 563] 0.1"
@@ -72328,7 +72328,7 @@ entity
 		side
 		{
 			"id" "35643"
-			"plane" "(226 -176 72) (226 -128 72) (226 -128 73)"
+			"plane" "(226 -176 72) (226 -120 72) (226 -120 73)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[0 0 -1 61.1418] 0.1"
@@ -72339,7 +72339,7 @@ entity
 		side
 		{
 			"id" "35642"
-			"plane" "(256 -128 74) (256 -128 72) (256 -176 72)"
+			"plane" "(256 -120 74) (256 -120 72) (256 -176 72)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -72350,7 +72350,7 @@ entity
 		side
 		{
 			"id" "35641"
-			"plane" "(226 -128 73) (226 -128 72) (256 -128 72)"
+			"plane" "(226 -120 73) (226 -120 72) (256 -120 72)"
 			"material" "YOGTOWERS/WOOD3"
 			"uaxis" "[1 0 0 -244] 0.25"
 			"vaxis" "[0 0 -1 271] 0.25"
@@ -72361,7 +72361,7 @@ entity
 		side
 		{
 			"id" "35640"
-			"plane" "(226 -128 72) (226 -176 72) (256 -176 72)"
+			"plane" "(226 -120 72) (226 -176 72) (256 -176 72)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[1 0 0 -845] 0.1"
@@ -72372,7 +72372,7 @@ entity
 		side
 		{
 			"id" "35639"
-			"plane" "(227 -128 74) (256 -128 74) (256 -176 74)"
+			"plane" "(227 -120 74) (256 -120 74) (256 -176 74)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[-1 0 0 563] 0.1"
@@ -72394,7 +72394,7 @@ entity
 		side
 		{
 			"id" "35637"
-			"plane" "(226 -176 73) (226 -128 73) (227 -128 74)"
+			"plane" "(226 -176 73) (226 -120 73) (227 -120 74)"
 			"material" "YOGTOWERS/MARBLE1"
 			"uaxis" "[0 1 0 32] 0.1"
 			"vaxis" "[-0.707107 0 -0.707107 421.392] 0.1"
@@ -78385,94 +78385,6 @@ entity
 }
 entity
 {
-	"id" "46034"
-	"classname" "func_detail"
-	solid
-	{
-		"id" "37424"
-		side
-		{
-			"id" "36571"
-			"plane" "(231 -128 40) (231 -85 40) (253 -85 40)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -832] 0.1"
-			"vaxis" "[0 -1 0 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "36570"
-			"plane" "(231 -85 39) (231 -128 39) (253 -128 39)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -832] 0.1"
-			"vaxis" "[0 -1 0 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "36569"
-			"plane" "(231 -128 39) (231 -85 39) (231 -85 40)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 0] 0.1"
-			"vaxis" "[0 0 -1 -340] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "36568"
-			"plane" "(253 -85 39) (253 -128 39) (253 -128 40)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 0] 0.1"
-			"vaxis" "[0 0 -1 -340] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "36567"
-			"plane" "(231 -85 39) (253 -85 39) (253 -85 40)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -832] 0.1"
-			"vaxis" "[0 0 -1 -340] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "36566"
-			"plane" "(253 -128 39) (231 -128 39) (231 -128 40)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -832] 0.1"
-			"vaxis" "[0 0 -1 -340] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "0 180 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 8500]"
-	}
-}
-entity
-{
 	"id" "46046"
 	"classname" "func_detail"
 	solid
@@ -83289,49 +83201,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -15768]"
-	}
-}
-entity
-{
-	"id" "47215"
-	"classname" "prop_physics"
-	"angles" "0 90 0"
-	"damagetoenablemotion" "0"
-	"Damagetype" "0"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"ExplodeDamage" "0"
-	"ExplodeRadius" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"forcetoenablemotion" "0"
-	"gmod_allowphysgun" "1"
-	"inertiaScale" "1.0"
-	"massScale" "0"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"minhealthdmg" "0"
-	"model" "models/props/yogtowers/box001.mdl"
-	"modelscale" "1.0"
-	"nodamageforces" "1"
-	"PerformanceMode" "0"
-	"physdamagescale" "0.1"
-	"pressuredelay" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"shadowcastdist" "0"
-	"skin" "0"
-	"spawnflags" "8"
-	"origin" "-1153 -124 90.8424"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 -5268]"
 	}
 }
 entity
@@ -97405,7 +97274,7 @@ entity
 	"skin" "0"
 	"solid" "6"
 	"StartDisabled" "0"
-	"origin" "-1000 -124 0"
+	"origin" "-1000 -124 -35"
 	editor
 	{
 		"color" "220 30 220"
@@ -98607,354 +98476,29 @@ entity
 }
 entity
 {
-	"id" "99095"
-	"classname" "func_detail"
-	solid
-	{
-		"id" "99096"
-		side
-		{
-			"id" "42945"
-			"plane" "(253 -128 72) (253 -85 72) (254 -85 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -832] 0.1"
-			"vaxis" "[0 -1 0 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42944"
-			"plane" "(253 -85 40) (253 -128 40) (254 -128 40)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -832] 0.1"
-			"vaxis" "[0 -1 0 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42943"
-			"plane" "(253 -128 40) (253 -85 40) (253 -85 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 0] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42942"
-			"plane" "(254 -85 40) (254 -128 40) (254 -128 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 0] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42941"
-			"plane" "(253 -85 40) (254 -85 40) (254 -85 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -832] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42940"
-			"plane" "(254 -128 40) (253 -128 40) (253 -128 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -832] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
+	"id" "100297"
+	"classname" "prop_static"
+	"angles" "0 270 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props/yogtowers/sink.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "241.748 -107 61.9328"
 	editor
 	{
-		"color" "0 180 0"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
-		"logicalpos" "[0 8500]"
-	}
-}
-entity
-{
-	"id" "99107"
-	"classname" "func_detail"
-	solid
-	{
-		"id" "99108"
-		side
-		{
-			"id" "42957"
-			"plane" "(230 -128 72) (230 -85 72) (231 -85 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -602] 0.1"
-			"vaxis" "[0 -1 0 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42956"
-			"plane" "(230 -85 40) (230 -128 40) (231 -128 40)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -602] 0.1"
-			"vaxis" "[0 -1 0 0] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42955"
-			"plane" "(230 -128 40) (230 -85 40) (230 -85 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 0] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42954"
-			"plane" "(231 -85 40) (231 -128 40) (231 -128 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 0] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42953"
-			"plane" "(230 -85 40) (231 -85 40) (231 -85 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -602] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42952"
-			"plane" "(231 -128 40) (230 -128 40) (230 -128 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -602] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "0 180 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 8500]"
-	}
-}
-entity
-{
-	"id" "99127"
-	"classname" "func_detail"
-	solid
-	{
-		"id" "99128"
-		side
-		{
-			"id" "42969"
-			"plane" "(231 -85 72) (231 -84 72) (253 -84 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -717] 0.1"
-			"vaxis" "[0 -1 0 205] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42968"
-			"plane" "(231 -84 40) (231 -85 40) (253 -85 40)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -717] 0.1"
-			"vaxis" "[0 -1 0 205] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42967"
-			"plane" "(231 -85 40) (231 -84 40) (231 -84 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 -205] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42966"
-			"plane" "(253 -84 40) (253 -85 40) (253 -85 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 -205] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42965"
-			"plane" "(231 -84 40) (253 -84 40) (253 -84 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -717] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42964"
-			"plane" "(253 -85 40) (231 -85 40) (231 -85 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -717] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "0 180 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 8500]"
-	}
-}
-entity
-{
-	"id" "99139"
-	"classname" "func_detail"
-	solid
-	{
-		"id" "99140"
-		side
-		{
-			"id" "42981"
-			"plane" "(231 -129 72) (231 -128 72) (253 -128 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -717] 0.1"
-			"vaxis" "[0 -1 0 -235] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42980"
-			"plane" "(231 -128 40) (231 -129 40) (253 -129 40)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -717] 0.1"
-			"vaxis" "[0 -1 0 -235] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42979"
-			"plane" "(231 -129 40) (231 -128 40) (231 -128 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 235] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42978"
-			"plane" "(253 -128 40) (253 -129 40) (253 -129 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[0 1 0 235] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42977"
-			"plane" "(231 -128 40) (253 -128 40) (253 -128 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -717] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "42976"
-			"plane" "(253 -129 40) (231 -129 40) (231 -129 72)"
-			"material" "YOGTOWERS/METAL1"
-			"uaxis" "[1 0 0 -717] 0.1"
-			"vaxis" "[0 0 -1 -185] 0.1"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "0 180 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 8500]"
+		"logicalpos" "[0 0]"
 	}
 }
 cameras
@@ -98962,8 +98506,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-62.2233 17.8361 101.125]"
-		"look" "[9689.99 -3723.03 153.97]"
+		"position" "[197.032 -90.6131 96.3893]"
+		"look" "[9846.8 -1079.41 -3777.59]"
 	}
 }
 cordon
