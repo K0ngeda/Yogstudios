@@ -1,3 +1,2 @@
 # Yogstudios
-Yogstudios Map Git
-Hello? Does thsi work
+A Git for the creation of the Yogstudios TTT Map.
