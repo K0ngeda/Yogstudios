@@ -62073,7 +62073,6 @@ entity
 	"id" "6290"
 	"classname" "ttt_traitor_button"
 	"description" "Spawn manhacks (1 Credit)"
-	"origin" "-196 -590 103"
 	"RemoveOnPress" "0"
 	"spawnflags" "0"
 	"targetname" "manhack_button"
@@ -62083,6 +62082,7 @@ entity
 	{
 		"OnPressed" "manhack_credit,TakeCredits,,0,-1"
 	}
+	"origin" "-196 -590 103"
 	editor
 	{
 		"color" "220 30 220"
@@ -62179,7 +62179,6 @@ entity
 	"id" "6300"
 	"classname" "ttt_credit_adjust"
 	"credits" "1"
-	"origin" "-344 -576 103"
 	"targetname" "manhack_credit"
 	connections
 	{
@@ -62188,6 +62187,7 @@ entity
 		"OnSuccess" "manhack_spawner,Enable,,0,-1"
 		"OnSuccess" "manhack_button,Lock,,0,-1"
 	}
+	"origin" "-344 -576 103"
 	editor
 	{
 		"color" "220 30 220"
@@ -68553,7 +68553,6 @@ entity
 	"id" "6699"
 	"classname" "ttt_traitor_button"
 	"description" "Smoke up the building for 30 seconds"
-	"origin" "-344 -576 103"
 	"RemoveOnPress" "1"
 	"spawnflags" "0"
 	"targetname" "vape_button"
@@ -68565,6 +68564,7 @@ entity
 		"OnPressed" "vape_fogcontroller,TurnOff,,30,-1"
 		"OnPressed" "vape_text,Display,,0,-1"
 	}
+	"origin" "-344 -576 103"
 	editor
 	{
 		"color" "220 30 220"
@@ -98506,8 +98506,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[197.032 -90.6131 96.3893]"
-		"look" "[9846.8 -1079.41 -3777.59]"
+		"position" "[68.4519 -103.581 90.0464]"
+		"look" "[-8035.44 6377.32 -1105.1]"
 	}
 }
 cordon
