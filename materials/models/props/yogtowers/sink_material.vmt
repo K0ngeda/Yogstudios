@@ -7,7 +7,7 @@
 	$basetexture "models/props/yogtowers/sink_diffuse"
 	$bumpmap "models/props/yogtowers/sink_normal"
 	"$envmap" "env_cubemap"
-	"$envmaptint" "[.4 .4 .4"
+	"$envmaptint" "[.4 .4 .4]"
 
 	"$phong" "1"
 	"$phongexponent" "90"
