@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8078"
-	"mapversion" "736"
+	"editorbuild" "8087"
+	"mapversion" "737"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "736"
+	"mapversion" "737"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -98596,7 +98596,7 @@ entity
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
 	"_inner_cone" "33"
-	"_light" "255 255 236 2"
+	"_light" "255 255 236 10"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -98606,7 +98606,7 @@ entity
 	"pitch" "-90"
 	"spawnflags" "0"
 	"style" "0"
-	"origin" "245 -53 109.051"
+	"origin" "245 -53 101"
 	editor
 	{
 		"color" "220 30 220"
@@ -98626,7 +98626,7 @@ entity
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
 	"_inner_cone" "33"
-	"_light" "255 255 236 2"
+	"_light" "255 255 236 10"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -98636,7 +98636,7 @@ entity
 	"pitch" "-90"
 	"spawnflags" "0"
 	"style" "0"
-	"origin" "245 -224 109.051"
+	"origin" "245 -224 101"
 	editor
 	{
 		"color" "220 30 220"
@@ -98656,7 +98656,7 @@ entity
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
 	"_inner_cone" "33"
-	"_light" "255 255 236 2"
+	"_light" "255 255 236 10"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -98666,7 +98666,7 @@ entity
 	"pitch" "-90"
 	"spawnflags" "0"
 	"style" "0"
-	"origin" "245 -168 109.051"
+	"origin" "245 -168 101"
 	editor
 	{
 		"color" "220 30 220"
@@ -98686,7 +98686,7 @@ entity
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
 	"_inner_cone" "33"
-	"_light" "255 255 236 2"
+	"_light" "255 255 236 10"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -98696,7 +98696,7 @@ entity
 	"pitch" "-90"
 	"spawnflags" "0"
 	"style" "0"
-	"origin" "245 -112 109.051"
+	"origin" "245 -112 101"
 	editor
 	{
 		"color" "220 30 220"
@@ -98710,8 +98710,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[201.644 -80.7457 85.9632]"
-		"look" "[10154 -3205.2 -455.264]"
+		"position" "[110.709 -77.3957 98.3177]"
+		"look" "[-8339.93 6023.36 -588.5]"
 	}
 }
 cordon
